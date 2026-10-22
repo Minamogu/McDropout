@@ -1,0 +1,7 @@
+*.zip
+__pycache__/
+*.pyc
+*.pth
+*.pt
+ssh_connection.md
+slide_prompt.md

@@ -1,0 +1,2 @@
+accuracy,predictive_entropy,mutual_information,ece,error_detection_auroc_predictive_entropy,error_detection_auroc_mutual_information,experiment,condition,seed,loss,deterministic_accuracy,epochs_completed
+0.8716666666666667,0.20113272964954376,0.016081755980849266,0.05572016557057703,0.723324476670557,0.7045516624866529,channels,A,38,0.5079861108462016,0.8,9
